@@ -61,7 +61,7 @@ class ProductController extends Controller
             'title' => 'required|string|max:255',
             'description' => 'required|string',
             'price' => 'required|numeric',
-            'image' => 'required|url',
+            'image' => 'required',
         ];
 
         // Validación para PATCH: solo se requiere que los campos que se envían estén presentes
