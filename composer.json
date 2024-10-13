@@ -55,6 +55,9 @@
         "optimize-autoloader": true,
         "allow-plugins": {
             "kylekatarnls/update-helper": true
+        },
+        "platform": {
+            "php": "7.3.33"
         }
     }
 }
