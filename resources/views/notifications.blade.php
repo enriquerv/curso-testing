@@ -39,7 +39,7 @@
             <h4>{{ $message }}</h4>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+            <button type="button" id="close-modal-success" class="btn btn-default" data-dismiss="modal">Cerrar</button>
           </div>
         </div>
       </div>

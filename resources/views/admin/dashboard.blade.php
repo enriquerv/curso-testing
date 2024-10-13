@@ -16,7 +16,7 @@
         <div class="row mb-5">
             <div class="col-md-12">
                 <div class="header text-center">
-                    <h1><i class="fas fa-book-open"></i> Login exitóso </h1>
+                    <h1><i class="fas fa-book-open"></i> Login exitoso </h1>
                 </div>
             </div>
         </div>

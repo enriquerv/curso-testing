@@ -37,7 +37,7 @@
                 </div>
 
                 <div class="form-group text-right">
-                    {!! Form::submit(trans('auth.title.login'), ['class' => 'btn btn-primary w-100']) !!}
+                    {!! Form::submit(trans('auth.title.login'), ['class' => 'btn btn-primary w-100', 'id' => 'btn-login']) !!}
                 </div>
                 {!! Form::close() !!}
             </div>

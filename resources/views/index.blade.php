@@ -49,10 +49,9 @@
                     </div>
                     <div class="card-body">
                         <p class="text-justify">Si tienes preguntas o deseas más información, no dudes en contactarnos:</p>
-                        <p class="text-justify"><strong>Email:</strong> <a
-                                href="mailto:info@cambiodetrayectoriaprofesional.com">info@cambiodetrayectoriaprofesional.com</a>
+                        <p class="text-justify"><strong>Email:</strong> <a id="contact-email" href="mailto:info@cambiodetrayectoriaprofesional.com">info@cambiodetrayectoriaprofesional.com</a>
                         </p>
-                        <p class="text-justify"><strong>Teléfono:</strong> <a href="tel:5531915810">5531915810 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeHq-vaUK8MlOy8sPlCE5cHlSF9w7jUJ6YDQ&s" alt="" width="30px"></a> </p>
+                        <p class="text-justify"><strong>Teléfono:</strong> <a id="contact-phone" href="tel:5531915810">5531915810 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeHq-vaUK8MlOy8sPlCE5cHlSF9w7jUJ6YDQ&s" alt="" width="30px"></a> </p>
                     </div>
                 </div>
             </div>
